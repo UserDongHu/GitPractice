@@ -1,0 +1,11 @@
+secretfile.py
+
+/secretfile.py
+
+*.jpg
+
+secretdir/
+
+secretdir2/**/secretfile2.py
+
+!notsecret.jpg
